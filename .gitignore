@@ -1,0 +1,4 @@
+# Ignore unnecessary folders in the FMOD Studio project
+/FmodStudio/.cache/
+/FmodStudio/.unsaved/
+/FmodStudio/.user/
