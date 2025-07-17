@@ -139,7 +139,6 @@
 		<relationship name="effects">
 			<destination>{3ad28fa5-99e6-4919-9a7c-b95aea529d06}</destination>
 			<destination>{2fb53d2c-b481-4646-83d2-ff552e66592a}</destination>
-			<destination>{a4f6ecee-d203-43bd-ad21-baad828a9818}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{62f96031-1310-417d-98cd-eee2f7a56519}" />
@@ -176,10 +175,9 @@
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{2fb53d2c-b481-4646-83d2-ff552e66592a}" />
-	<object class="PitchShifterEffect" id="{a4f6ecee-d203-43bd-ad21-baad828a9818}" />
 	<object class="AutomationPoint" id="{4863933c-70d0-4523-879b-2b758788e5d9}">
 		<property name="position">
-			<value>53.851100985221677</value>
+			<value>53</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -235,7 +233,7 @@
 	<object class="MixerBusFader" id="{14da8726-f9eb-4f89-bc42-69a1c7c9378e}" />
 	<object class="AutomationPoint" id="{7cfc9154-c736-4547-b004-0f2afa76cb21}">
 		<property name="position">
-			<value>0.0016420361247947454</value>
+			<value>0.50082101806239743</value>
 		</property>
 		<property name="value">
 			<value>-24</value>
@@ -243,7 +241,7 @@
 	</object>
 	<object class="AutomationPoint" id="{6e905e0a-e9c3-46a9-9501-6370bfcb6e6c}">
 		<property name="position">
-			<value>0.99917898193760257</value>
+			<value>0.99958949096880134</value>
 		</property>
 		<property name="value">
 			<value>0</value>
